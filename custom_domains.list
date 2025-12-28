@@ -1,0 +1,19 @@
+# NAME: KS Custom Rules
+# AUTHOR: KS
+# REPO: Custom
+# UPDATED: 2025-12-28 14:45:00
+# DOMAIN-KEYWORD: 9
+# TOTAL: 9
+#
+# Кастомные правила пользователя для Shadowrocket
+# Загружается через RULE-SET в sr_ru_basic_ks.conf
+#
+DOMAIN-KEYWORD,santander
+DOMAIN-KEYWORD,gtktele
+DOMAIN-KEYWORD,oldwell-tele
+DOMAIN-KEYWORD,threads
+DOMAIN-KEYWORD,tronlink
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,canva
+DOMAIN-KEYWORD,signal
+DOMAIN-KEYWORD,whispersystems
